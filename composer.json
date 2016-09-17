@@ -3,7 +3,7 @@
     "description": "Uma lib simples para fazer download do servior para o cliente",
     "type": "library",
     "require": {
-        "php": ">=5.2.*"
+        "php": ">=5.2"
     },
     "license": "MIT",
     "authors": [
@@ -17,5 +17,5 @@
 						"download.php"
 		    ]		
 		},
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
