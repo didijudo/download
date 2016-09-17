@@ -1,0 +1,21 @@
+{
+    "name": "didijudo/download",
+    "description": "Uma lib simples para fazer download do servior para o cliente",
+    "type": "library",
+    "require": {
+        "php": ">=5.2.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Diego Andrade",
+            "email": "didi.ufs@gmail.com"
+        }
+    ],
+		"autoload": {
+		    "files": [
+						"download.php"
+		    ]		
+		},
+    "minimum-stability": "dev"
+}
