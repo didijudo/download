@@ -3,7 +3,8 @@
     "description": "Uma lib simples para fazer download do servior para o cliente",
     "type": "library",
     "require": {
-        "php": ">=5.5"
+        "php": ">=5.5",
+        "phpunit/phpunit": "^4.8"
     },
     "license": "MIT",
     "authors": [
